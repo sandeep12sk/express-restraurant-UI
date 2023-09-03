@@ -1,0 +1,152 @@
+* {
+    text-decoration: none;
+    list-style: none;
+    /* padding: 0px 20px 0px 20px; */
+    padding: 0px;
+    margin: 0px;
+
+
+}
+
+.footer-body{
+    background-image: url(../../../assets/images/footer_bg.jpg);
+}
+#newsletter {
+    display: inline-block;
+    display: flex;
+    background-color: #FFA41F;
+    flex-wrap: wrap;
+    color: white;
+}
+#newsletter h1 {
+    width: 25%;
+    margin-left: 10%;
+    font-size: 2.5em;
+    margin-top: 23px;
+}
+#newsletter p {
+    margin: 30px 0px 0px 0px;
+    width: 30%;
+    box-sizing: border-box;
+    flex-wrap: wrap;
+    padding-bottom: 19px;
+    margin-bottom: 10px;
+}
+#formfooter {
+    margin-top: 35px;
+}
+#newsletter form input {
+    width: 250px;
+    height: 23px;
+    
+}
+#newsletter form button {
+
+    height: 27px;
+    color: white;
+    font-size: bold;
+    background-color:tomato;
+    border: 0px;
+    width: 62px;
+}
+#menu {
+    display: inline-block;
+    display: flex;
+    justify-content: space-evenly;
+    margin: 50px ;
+    color: white;
+}
+.footer-menu {
+    padding: 0px 20px 0px 20px;
+    margin: 21px 0px 24px 0px;
+    
+
+}
+.footer-menu h1{
+margin-right: 50px;
+
+}
+.footer-menu ul li{
+    margin: 21px 0px 24px 0px;
+    font-size: 1.2em;
+    color: white;
+    
+    
+}
+#fworking-time ul li a {
+    padding-left: 10px;
+    color: white;
+    
+}
+#fmyorder ul li a{
+    padding-left: 10px;
+    color: white;
+      
+}
+#finformation ul li a{
+    padding-left: 10px;
+    color: white;
+}
+#fcontact-us ul li a{
+    padding-left: 10px;
+    color: white;
+}
+
+.contactlogo{
+    color:rgb(228, 192, 75);
+}
+
+
+#copyright {
+    display: inline-block;
+    display: flex;
+    border-top: 2px solid rgb(66, 65, 65);
+    flex-direction: row;
+    
+    
+}
+#copyright img{
+    width: 50px;
+    height: 50px;
+    margin-left: 10%;
+}
+#restaurant-name {
+    margin: 0px 0px 8px 3px;
+    color: white;
+    
+}
+#restaurant-name p{
+    font-size: .9em;
+    color:white;
+    
+} 
+#last-p-copyright{
+    color: #FFA41F;
+    margin: 0px 10px 0px 10px;
+}
+
+#copyright-logo {
+    margin: 20px 0px 0px 121px;
+    display: flex;
+    flex-direction: row;
+    color: white;
+}
+
+#social-media-logo ul {
+    display: inline-block;
+    display: flex;
+    flex-direction: row;
+    margin: 15px 100px 0px 87px;
+
+
+}
+#social-media-logo ul li{
+    margin-left: 20px;
+    font-size: 1.5em;
+    color: white;
+}
+
+
+.fa-solidfa-location-dot{
+    color: aqua;
+}
